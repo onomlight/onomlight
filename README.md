@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
   
   <h3>Version Control</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>![image](https://user-images.githubusercontent.com/102299695/207048546-6244868a-9e8f-4a03-91a2-1ba1814ef183.png)
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <h2/>
